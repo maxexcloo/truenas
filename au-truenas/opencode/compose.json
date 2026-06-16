@@ -1,0 +1,48 @@
+{
+	"app_name": "ENC[AES256_GCM,data:B3Z08MpSBTc=,iv:yuFlqb/kmQlPlkKlPzKDWqAB/61QPGSNu5Gz9uOH7lA=,tag:UvclP/faySqb/0q3m1nh9Q==,type:str]",
+	"custom_app": "ENC[AES256_GCM,data:HoZhaA==,iv:H9LY/XhYI5tU8jNzM8PAUzXGWdMWxcyPzFIg9EsW2+E=,tag:7sga0GkBBhtf+XQsyav+/g==,type:bool]",
+	"custom_compose_config": {
+		"services": {
+			"opencode": {
+				"command": "ENC[AES256_GCM,data:ob+SUMjbzfNNKUpQqCEt39eOfQlyIGlhPmSmjvGiAUrxSw==,iv:XoDJKXuQdmIPIrUq9eX09aUn/kkd4cVkvkkW/N3FI0s=,tag:GUdnyZidkqxTjREJZd2h0A==,type:str]",
+				"environment": {
+					"OPENCODE_SERVER_PASSWORD": "ENC[AES256_GCM,data:sHImWN7lwNtZwWQpAPHaSesWMBE3wwPMnYqoJnBjGsc=,iv:i1XnFF5GM/9KQdtyDd6ES8YfpzRE81isNyGJZKuYG6o=,tag:Jvz0DxtU9Q5rm8oVvaXcBw==,type:str]",
+					"OPENCODE_SERVER_USERNAME": "ENC[AES256_GCM,data:GfANID0w2d0=,iv:PAAWU9aqDbp96QOQZ6TqAb6OuoUXNzWL8PEcOvlMUm4=,tag:fMRim7FkhWAoyImMzFERBg==,type:str]"
+				},
+				"image": "ENC[AES256_GCM,data:DtO50KS7QvPjvffy6ONHHxzfkhCiqz+9p3lrvC9lGOQ6,iv:3ITIGBj8hxTYV86oMu0/mP52Nx5UkU9FPRjQ74BSIoQ=,tag:tZucwA4PmdXE2Xydox2uDA==,type:str]",
+				"labels": {
+					"traefik.enable": "ENC[AES256_GCM,data:zi2hdw==,iv:b9qHD5PXaKhO5a9K3RMzA3WroKwTUV+yOWpoVsUBUNY=,tag:Px3ISw7Q/9KMFxhVM+RBpA==,type:str]",
+					"traefik.http.routers.opencode-http.entrypoints": "ENC[AES256_GCM,data:JQGj,iv:Bdsy6ozSh3ZC3pTqp8lNDHoJdFNhyTA3v+cc3IdWKO4=,tag:HHuDf2gdBmsBmjJfqcLKzw==,type:str]",
+					"traefik.http.routers.opencode-http.middlewares": "ENC[AES256_GCM,data:ohwiBTP9yRdW7gPUTgbZoCC4WPAI/QlkAtDfKZHpwEliendbC4khouOLcF6D,iv:Stcz+2mDMUkECTmNhd1clAXHNImDM6iDZ/Ep7J6zxKg=,tag:lFjpKc3g26VUggCmkqBGCg==,type:str]",
+					"traefik.http.routers.opencode-http.rule": "ENC[AES256_GCM,data:s6DgSyZFO1VLUW1E1/48kNn6kdhl4gxknzqAEHbqBguZTzHFsFU=,iv:8GxHAjQbiUR7KWwRj+3TBBz1ZU03X629XYpopZWEo9c=,tag:1qlDrtDtcZVaEmLphgWq8A==,type:str]",
+					"traefik.http.routers.opencode-http.service": "ENC[AES256_GCM,data:rk3PD+e48JM=,iv:mFz0s8AMUegctK6ioljQw0k6l+Vqu3qX/e/VWiCrXqQ=,tag:ecBj1RALXpW1lLsHKSVLIw==,type:str]",
+					"traefik.http.routers.opencode.entrypoints": "ENC[AES256_GCM,data:R0qcyF6Qe80k,iv:l6lIsR8o4fcZVOgSgWtvZ+ThXkyXD11ihn6U0glZtro=,tag:F5YKzIxHDxIoLYDs5x0rPw==,type:str]",
+					"traefik.http.routers.opencode.middlewares": "ENC[AES256_GCM,data:FGpc0rQUPBJ6afPjFo5NXCoFZDA=,iv:5Aqi9XNY9sbAmqBrlGlTcEcUKBY2ImSS5S/GZ4vBSBQ=,tag:0a8v+L7qlArssBeSfLddMQ==,type:str]",
+					"traefik.http.routers.opencode.rule": "ENC[AES256_GCM,data:ssHHm7JFF3CoK534wRkPCPERjjZVmkkGuJH7bp5sdTgCQrDNeBg=,iv:/4K+jvk1943LA6ndtSMaCtmYGKt/CnQLYd29j0koW0U=,tag:4GeMacAAf6tW7Df6E+YKcQ==,type:str]",
+					"traefik.http.routers.opencode.service": "ENC[AES256_GCM,data:55gFuprr2X0=,iv:I7XiAyWjVoSoXwMnvx5wAO/83aadgLgr2VUqqt+4Fyw=,tag:LgDdOI4Uh+B3ifhrDfbGaw==,type:str]",
+					"traefik.http.routers.opencode.tls.certresolver": "ENC[AES256_GCM,data:sGnK7r3h9wMAfg==,iv:iQrcsErYeBFx+ROvsmU163i03jQkuaCjndI2PTZFO/o=,tag:JDfmQ1Qi01jl7IO+aMM1Dw==,type:str]",
+					"traefik.http.services.opencode.loadbalancer.server.port": "ENC[AES256_GCM,data:pCOaKQ==,iv:3ZMUchTrn8qFv5OTkHbN0xlNvMxWhubrEu3B1l8H1oQ=,tag:xgyaliUdHukTZp7UBOzUdw==,type:str]"
+				},
+				"restart": "ENC[AES256_GCM,data:i9XzFiJUiubDF9eNLR0=,iv:4oi0fkECMG51p2xsZtJuAJiXlaKwE/rTs8Q3lqLoXCg=,tag:QWQUvUuKsxlJXjQKE4i95g==,type:str]",
+				"volumes": [
+					"ENC[AES256_GCM,data:NOUiGqg0Oq3W6Q==,iv:BL9zvNFwo5lTT2cTGBWKjeH8MQco+oV8shr7eI2XKS4=,tag:MNJdEdKuF72J2q7EjtseoQ==,type:str]"
+				]
+			}
+		},
+		"volumes": {
+			"data": null
+		}
+	},
+	"sops": {
+		"age": [
+			{
+				"enc": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBPS1o0aHE2WUc1MHY4Z0li\nNUxocjN5bXhpa3lxa1o4eSswaUFhSEE2NWlVCkpRa3RBcjhFWDBuZEppNkhvZHQv\nK2U1YW00SERuR1FYaWlxWTlkZ05qeWMKLS0tICtTV1dLSUNBaUx6bkd5U0NFelp0\nbDBOQmdFYmpNTTlqcFgzQ0ZJMzJCSHMK3b1FYHA8umoBwJ682PaZoKTv1nrkIQH6\nAhWber1t7hVMnMFI2wkh+Qj4oKDthDGBGsw+TW1OzjVzi/uXFUgakg==\n-----END AGE ENCRYPTED FILE-----\n",
+				"recipient": "age1efn67qrhcfhdjycg0sckmnpytcm765ndwys0zfg8dth2lqqss93qk8tsjd"
+			}
+		],
+		"lastmodified": "2026-06-16T02:40:31Z",
+		"mac": "ENC[AES256_GCM,data:DMox74SWZb5nKvE8ml6RF6jwp6R05Vsyvh9WUlu7Dk3yqny/6ZMMBKNvwkqPP9KecHtez80jM75d+zmnU6loYmd3EYRe3JDi4sJAls0eb0ZXmkELXDxlnFDEEXmtlp0/bJW9AVRAbkdRlYMavY3CPYx6jUx4ivni4xYc5gz+WTQ=,iv:osyfP7EkF+TRlxGK5zpQ3BllCqiq5or/2sxnfpOPhRc=,tag:iNbsnLMB0bPWoBR0SMuHHQ==,type:str]",
+		"unencrypted_suffix": "_unencrypted",
+		"version": "3.13.1"
+	}
+}
