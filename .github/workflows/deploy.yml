@@ -24,7 +24,7 @@ jobs:
       matrix: ${{ steps.deployments.outputs.deployments }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
       - name: Select Deployments
@@ -54,7 +54,7 @@ jobs:
       TARGET_PATHS: ${{ toJSON(matrix.target.paths) }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
       - name: Setup sops
