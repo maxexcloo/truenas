@@ -58,7 +58,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Setup sops
-        uses: nhedger/setup-sops@v2
+        uses: nhedger/setup-sops@v3
       - name: Setup uv
         uses: astral-sh/setup-uv@v8.1.0
       - name: Setup midclt
