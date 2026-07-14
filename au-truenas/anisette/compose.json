@@ -1,30 +1,36 @@
 {
-	"app_name": "ENC[AES256_GCM,data:0M4Bxeoai6w=,iv:mbE2+vNZelNmt9RdpOlRRaat7ujUC9Pl1YgbFX/Wrgo=,tag:Xj7jH5dRRt2whxuyPQ9EIA==,type:str]",
-	"custom_app": "ENC[AES256_GCM,data:BHprRQ==,iv:eHy2E1GUJZ5JSBPjc90FUKtldbgfD5ZtlFOvchT6STs=,tag:drr3y/UTqWEe4KUKKOG0+g==,type:bool]",
+	"app_name": "ENC[AES256_GCM,data:sVdWWxhyzyM=,iv:ZDIPdhsQOsOfoHkilw2qY+KPNhVS1YFRYLtIaswIHcI=,tag:egAR9GNSe3TA5STjXKyelw==,type:str]",
+	"custom_app": "ENC[AES256_GCM,data:Amnf2A==,iv:juu9lfTJly3uUOaz3eGjq5momDZQKevNln97sYyJlFE=,tag:d4Q6VinMCWr7ci5l5OF3YA==,type:bool]",
 	"custom_compose_config": {
 		"services": {
 			"anisette": {
-				"image": "ENC[AES256_GCM,data:OHYuLi8KaqzH+TNXUy7B8BSO2c6rlkkM5Q==,iv:by9Ju5BUG/elkSPRLBgkSoc133elVLOEACvQYh2ebLc=,tag:cRq39Fjqij5JFMxHmYggXw==,type:str]",
+				"image": "ENC[AES256_GCM,data:vfmzPbPLuEWuGTxfRu4xgBlH0XA+vADvRQ==,iv:L6EvSmZ8KYN1F3TMZIFc4A4kiWVqSuUORGc9bi8y3fU=,tag:6XQzcEsns7Go2eToGdb4cg==,type:str]",
 				"labels": {
-					"traefik.enable": "ENC[AES256_GCM,data:MjAqEQ==,iv:NZlcFOsMMO9bXBnciGcJSRxZmHz7sncXDWP6L+9ol/Y=,tag:0avioZQb6U4X7bToylvSeA==,type:str]",
-					"traefik.http.routers.anisette-1-http.entrypoints": "ENC[AES256_GCM,data:UUfA,iv:YXBpWn4sPFx5p+5nIBsdl/YJwghFAoyDmGCfUOLJ/2U=,tag:XRT/RONydgIoICkw60Fo2w==,type:str]",
-					"traefik.http.routers.anisette-1-http.middlewares": "ENC[AES256_GCM,data:il+kW4SQIZU0Z8orVVmqmSyY1xBpxvgQlNncCUyWryduhLJzxz9bkIbAyCqr,iv:Aiiyd2J4noNmn6x2mGATXNH6LikWR+vRNs7NAh5WWPQ=,tag:qfwAQqql51H4gN9pnt7XpA==,type:str]",
-					"traefik.http.routers.anisette-1-http.rule": "ENC[AES256_GCM,data:0C/hL7zp0mUZ5V9ztnkhbTiS8+2frjMeveOzQDhAQJXixrzaPxI=,iv:VAsa9z120YysNPzeCdprxnTS0tMdj4uAPZOSavdqbUY=,tag:ME6i9aHwFBkWXWI1c0OL6w==,type:str]",
-					"traefik.http.routers.anisette-1-http.service": "ENC[AES256_GCM,data:tf6s+YKjqDd+Iw==,iv:Oi6lh96sbymeRWUQmhuYAoA1zXWTXaG7DR93MNFzvsI=,tag:vYJqZAukd8UTko8It0Ivyg==,type:str]",
-					"traefik.http.routers.anisette-1.entrypoints": "ENC[AES256_GCM,data:zgDx+OCAXLfL,iv:muOfMANwkKZCaCFp+YAulmeGp8QWaLk4Dv3BFk9ydcs=,tag:V3N3Hn90hk9yOwowFtw4Eg==,type:str]",
-					"traefik.http.routers.anisette-1.middlewares": "ENC[AES256_GCM,data:MIrfuMHo9nBNM/evcqaCZ41nzDA=,iv:Wu8PUUOxVrYNzAsBAgx1+M+J8YwOXkwbGFHiL8SkisE=,tag:fZLwmOzzrJKKw+KhCXbCuA==,type:str]",
-					"traefik.http.routers.anisette-1.rule": "ENC[AES256_GCM,data:pQQsPcJM+9xui6H6NvJee18kNdSPc6QXMfgLQfXETrOg4Eh7+f4=,iv:HonnG8VNufl+u2ofDta4S3BdHvSv795kViwgX1WEE1g=,tag:pis+AmnKWrLkbBRdBxKMVA==,type:str]",
-					"traefik.http.routers.anisette-1.service": "ENC[AES256_GCM,data:kHywuR2XxEpNDA==,iv:QouIyA52dGNzBjhr7Y+2M5UtCcNTYCWfKsnmBg7FEDk=,tag:fNWnVO8ewsIfv2q/D5hLQQ==,type:str]",
-					"traefik.http.routers.anisette-1.tls.certresolver": "ENC[AES256_GCM,data:BbXzZP8gAyjyMA==,iv:cRIr9CrndNyX0yy/sKBW5RMXWshJEGOqto+BktQ/rMM=,tag:g/3gqUaYYeuUbeZy5SaSvg==,type:str]",
-					"traefik.http.routers.anisette.entrypoints": "ENC[AES256_GCM,data:szP5c3caBlb63gjD2YLg3lzPaMGIvQk2tA==,iv:hX9F4/HIjd8gN6A2Gz+ZNoWkJ4kimTUgk/UZS11CcWE=,tag:Ny2mfn5G0YAUNDx1WeQ7xg==,type:str]",
-					"traefik.http.routers.anisette.rule": "ENC[AES256_GCM,data:39VZkQtN6qxnPTOY7RzcQartap1RSo1PR3eZ,iv:lDw1qUvz07i9xpkyv0WbZXmdfSLVKVXOk87fXcGfN40=,tag:P6qA9XzPQS9IXlNjnyhpTQ==,type:str]",
-					"traefik.http.routers.anisette.service": "ENC[AES256_GCM,data:LqtJv9ph3Gc=,iv:GXykMLpt058ia1QOKSG9Nih7jYko2gkbsVYRpjx/6nc=,tag:LffgcfUaJm9czGjMHqtfRg==,type:str]",
-					"traefik.http.services.anisette-1.loadbalancer.server.port": "ENC[AES256_GCM,data:r2hATA==,iv:xUYy9ICdSc2eZQrIYjQN8FOvjE9cIFAD0IZ6Wqj2F2s=,tag:D4hYst7+AqhYVldq7iWwCQ==,type:str]",
-					"traefik.http.services.anisette.loadbalancer.server.port": "ENC[AES256_GCM,data:RBLeng==,iv:BEPWMoJmv1P0Iobql7aUY5TWwDnR62qxV9zlOemKrDs=,tag:9q3Nmq0YEhj9u06ZNdfNMA==,type:str]"
+					"traefik.enable": "ENC[AES256_GCM,data:V1PZLw==,iv:LMEf68oFbwsFg14zXJ6QNwSCIvmURlrbNzUq0mjgBuo=,tag:P+9owLPpqPmSEeE/ZJLygg==,type:str]",
+					"traefik.http.routers.anisette-1-http.entrypoints": "ENC[AES256_GCM,data:T7pk,iv:SpLgs3q3HClZ0LG1SAHyuNC3VskjCCK/C5cZCPTLycU=,tag:pPUU/paHo8zVGmTBZVogtQ==,type:str]",
+					"traefik.http.routers.anisette-1-http.middlewares": "ENC[AES256_GCM,data:XL+Spm4ZcqUTZFrXFkjU8kiV5fG/ucrycdlrhO+cQMl1y6qNq1VYpFISzYQK,iv:sUsU0EtzPTeXdKgb3YD0F912YQ6/NmPDbwB/fKUma0o=,tag:3dAWo7NKXUdzhSaC6xI8vg==,type:str]",
+					"traefik.http.routers.anisette-1-http.rule": "ENC[AES256_GCM,data:7sl+c+m6GORh76CopaQDTDy3uy95FTLZ99Rh4sbHk06o/7UZ078=,iv:g5rkXqBorDDYDGbwAH4Y6RlsZpjIzZBrpleB5qlq0dI=,tag:HZWzyMxR2G4NPPyzQ1ep7A==,type:str]",
+					"traefik.http.routers.anisette-1-http.service": "ENC[AES256_GCM,data:KM/eVFw5mVk+zQ==,iv:qQkVR5XMgTfyZ0Yb0hvt56ITVk9LL/+FSXUGNnqIuk4=,tag:mI90UVXJ67e5UmTJeRJbkQ==,type:str]",
+					"traefik.http.routers.anisette-1.entrypoints": "ENC[AES256_GCM,data:8c4K86BLvKWh,iv:x+xqd6TQ+Kz2lcb859xZRYkk9vuI0afsdYMTZvHOnu4=,tag:w3NbRGHn0JhGeNfRHRQgGQ==,type:str]",
+					"traefik.http.routers.anisette-1.middlewares": "ENC[AES256_GCM,data:RWBfuIwZJYRMHIGlhODPaJJ60O0=,iv:PV8Xf3+0mxBJVt6WQ9daMdT4EZufst1FuwJmXP7fTRk=,tag:0HJLVm1dwAZys/yyA++jCA==,type:str]",
+					"traefik.http.routers.anisette-1.rule": "ENC[AES256_GCM,data:/YLROzBeFcj8BZw62Ki1dKdl+9TzWDEnRFmcvszDZtL/CrygiLk=,iv:TdWDv8xqliomsWA0aDTWHu1L6aFZrCMinRCapAigirA=,tag:p1ygDSSoj5VbnKdPfakX7g==,type:str]",
+					"traefik.http.routers.anisette-1.service": "ENC[AES256_GCM,data:JtYgdK/0Wr6eMQ==,iv:asU5EU7xNh+FKSs4FhLF2kcoS1O5tsBtPS6jVejrPiQ=,tag:+E1N1hM2jbOgP3tpy9agZA==,type:str]",
+					"traefik.http.routers.anisette-1.tls.certresolver": "ENC[AES256_GCM,data:TOMwpSHMH8AHQg==,iv:dmgLo22Q6ZuXPxxsXQLXWybILbl17aXzE4QGDz6tejc=,tag:NYpoDE6NFr1gaZ+VKhbyTQ==,type:str]",
+					"traefik.http.routers.anisette-http.entrypoints": "ENC[AES256_GCM,data:GCDj,iv:bGESz175M06O2tlxSb3CAtFOWAfqk9PDuEjSOS+TIps=,tag:mJm7qQ2+YziW4LFjPIFVuA==,type:str]",
+					"traefik.http.routers.anisette-http.middlewares": "ENC[AES256_GCM,data:blYsuiJe1MMdEbMhwsnwoOhXS1ilz4jG,iv:1s2kpxHQuLkzvyG94osbp+Fie1PqGR+Ze/2PHm/64lk=,tag:QPAsKyNus8t/y5MDB0Vxww==,type:str]",
+					"traefik.http.routers.anisette-http.rule": "ENC[AES256_GCM,data:KGUWbaCejVBPjF5yBgQs0PkZwf73Hkgx9pE5,iv:JZPX9kTcxKBphYM7i7iNjJ8iJf/qQYtOnA2Mdy7zhoU=,tag:FvRcislzpOAwzHMQS8NuNQ==,type:str]",
+					"traefik.http.routers.anisette-http.service": "ENC[AES256_GCM,data:zldHpH+afJw=,iv:019v6AUQMC4O5LIAQDjKaE6LYLCR1oCn1Q9TeipUTrI=,tag:AxufzVEnMjDJz1nDsFw4DA==,type:str]",
+					"traefik.http.routers.anisette.entrypoints": "ENC[AES256_GCM,data:i/ow0Gl37KEL,iv:bngj7wVyZPW7AxSqH/PXEu5mxgnw8JEaU9OrlCEcAog=,tag:j86gECmLNCXDXStQ3MUj7w==,type:str]",
+					"traefik.http.routers.anisette.rule": "ENC[AES256_GCM,data:UxkN2qSwWeg5nrgqt2NlHDwOqhY5PlklDj8t,iv:mIKGloTT1r8bP5nrJRECAXklwV3Lirye6s8pHsWmuhE=,tag:sq1fNX0CEYl4fJsZlCVMuA==,type:str]",
+					"traefik.http.routers.anisette.service": "ENC[AES256_GCM,data:+vGF9ru2ynI=,iv:9IjWudjGSikiiYNans4H/YyyGT56EUkuLBHGxXOOdBI=,tag:ubMgS6nCET85auu6ur/wzA==,type:str]",
+					"traefik.http.routers.anisette.tls.certresolver": "ENC[AES256_GCM,data:l8yxllv57U5nVA==,iv:eMT02D+W+U18sKj04s+t9ITDuAoiAHJyG8ZIMLOsuC8=,tag:GNNTYhmXRhBS6hetRcNxmA==,type:str]",
+					"traefik.http.routers.anisette.tls.domains[0].main": "ENC[AES256_GCM,data:40kr+q9kXRrjHnpCFahuDAq5pQ==,iv:6gtl10IzHZq+SNlPyAr8S7piCpON7bbB76uSeifAIg0=,tag:kCThhFTvTHDVDKYm6dhpnQ==,type:str]",
+					"traefik.http.services.anisette-1.loadbalancer.server.port": "ENC[AES256_GCM,data:FCz27g==,iv:QkpNOr1scpOgV6z1CgCWCsYU8xgLnuBeQOIvMJZy964=,tag:e/TrbPpIXf+B4jueM+s8Nw==,type:str]",
+					"traefik.http.services.anisette.loadbalancer.server.port": "ENC[AES256_GCM,data:eyiPUA==,iv:bk7bu0/DK2BKGkW8ktdrBRPVuP8AfYR0By5zAhv5pl4=,tag:detZzHKk8qYzIbK/hRpmpA==,type:str]"
 				},
-				"restart": "ENC[AES256_GCM,data:vNzPvGT6yjSM1WDwCWA=,iv:m8pU8jkT0OlkdRukqk8ImZWOme0r2uXKu+M89V4QsHk=,tag:M8EZNGmNaLaJk0qOgeMvpg==,type:str]",
+				"restart": "ENC[AES256_GCM,data:B19g2KViCCvsKrnaYJs=,iv:Af9KtQNTv8ffkcAvqHFerZw5fPWEmKkClSl9nymU3GU=,tag:shnpIoPcIH27dJ4A5oqOqQ==,type:str]",
 				"volumes": [
-					"ENC[AES256_GCM,data:QWkOXS7l2OrAKCOLcHliJYsoKhUT2wP+RObSpVt9uK8d0UxH0vt3agyXT7o=,iv:pK8semDKSGgGgXuehLMApIhe2x87p+dq8jTw+XbTvJw=,tag:ywaW2yM8n5VpJHvstzotXQ==,type:str]"
+					"ENC[AES256_GCM,data:RQ2mCRV0CTJ0pp7tgi5Z/abcEyRpbPpQV9Ot4px/MGcfDfAmFWJnh2srGiA=,iv:Z82Oz+DYRtEGIC5OIKZG6mODuE3tOx95xqWY71f7uBo=,tag:crJh2OI3UMTRkKeM4goO9w==,type:str]"
 				]
 			}
 		},
@@ -35,12 +41,12 @@
 	"sops": {
 		"age": [
 			{
-				"enc": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBmY3VIbG0rTi9ocXZXUHpK\nTjZLckQyMjNvODh6ZEFURWpyeUhmbHJZWkRJCkdIUXhlcjhaOFJ2Z0NZVk11OVZO\nMTJLbWdNcUpwMmFqNm8zTWhqV3lXcWcKLS0tIHdGVDhPd20raHRIem1DVnhYZDFh\nRE9qWFNzbi9jc054M1pzRGdsNGhHMlUKJokG1GwKtS4OjS9Wus3hoaa4hjpLpDu1\nh4z2VKetqJUzvIFTGd8KiOoQ3hBZBai92MCzM3jtT4an/ZmbCuKn2A==\n-----END AGE ENCRYPTED FILE-----\n",
+				"enc": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSAyTDgzbkJRYmlmTFU0c3Nq\nNVlhdkVqL29iL2ZKVys4bFFxNW1XNk1aeTN3CkN0K1diMDZabGxKMXlZdUhUdWc2\nV0tNZ0JqRC84SVMzamFPbm9MZWxpblEKLS0tIE5qSlg4RnU5ZjdibjhlNkxjVzZ5\ndDdlTGE2QlFmWithenNCeEpUT3R0UlkKNvd29pHw2xurWbiH9nVqvUvVS/WsIYmA\nPyV13n8jxImsGHihaGGdAXiPoN11uQG8TXVzo12qscBL5c1Txdf1uw==\n-----END AGE ENCRYPTED FILE-----\n",
 				"recipient": "age1efn67qrhcfhdjycg0sckmnpytcm765ndwys0zfg8dth2lqqss93qk8tsjd"
 			}
 		],
-		"lastmodified": "2026-06-16T02:40:31Z",
-		"mac": "ENC[AES256_GCM,data:GeApQoYJbPpKj2ssyxDuUTu5GX7aZu3tgzxALO6x/Ef22mFClHZq9gI2qZOHINqWMi8OiUZ39wLhQVRJY1YN1KZkLScda6MTwQJIoKkOE5DHiv38QLKt3WzZxdJd4oDDYONiK+CxgtgKuLpla2F/Dnjj67HZnvpC+AzpBGcu6D8=,iv:rI2mZpTVJIe4R/27Q3/iOkqORcZy0cc30DFG7Fj7a+g=,tag:oKmBSTfxiLq3Rgs2JfBDEA==,type:str]",
+		"lastmodified": "2026-07-14T07:28:42Z",
+		"mac": "ENC[AES256_GCM,data:W8Ltptw8h8UEiBcvljZuk3hTwCVOIWShKqFHoi9JD9DozY13BdBj2x1M2bwLepLOmRSgwI7tLru1CGa2rhSk3+c2Db9bHGN72DQz6kRa+YscY+HFPn91Afot9UT+oBvqv7gpYkqjBkU9Kuaelkz7XpLdjAzV1Y+vSmy1wsvc88o=,iv:Kp58K7QVqtOjiYWr9lZru77asce0uFkKZFg62eDLiQo=,tag:Dtu8nhcEFpdTANQCo+8UVA==,type:str]",
 		"unencrypted_suffix": "_unencrypted",
 		"version": "3.13.1"
 	}
