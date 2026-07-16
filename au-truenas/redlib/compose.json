@@ -1,76 +1,76 @@
 {
-	"app_name": "ENC[AES256_GCM,data:dTwT4k7a,iv:AbcZXk8tOH/qEe5GkQucyoXKhYb7liKzn2mlWXNeV4I=,tag:CyePhNRK/LZ0exsDldUt3Q==,type:str]",
-	"custom_app": "ENC[AES256_GCM,data:Zni9qw==,iv:QrPwCe7qcNYoVlH0G2AEfIbz3qa1bHVOEHl0TZJA9F0=,tag:oqPGcizpVmGXKlORXIK8bw==,type:bool]",
+	"app_name": "ENC[AES256_GCM,data:gHZlihgU,iv:cIKBUaEvrHmDA0RRTCSwiylmx35T2is0i6wUFzegbQ0=,tag:7dMqL92jjS7fMSrXrpZf8Q==,type:str]",
+	"custom_app": "ENC[AES256_GCM,data:5WK0yA==,iv:5kZj4+Q57yseKerWLTsC+j1gYDxtI/LVJfzfhpjmGg8=,tag:Y+7DeSKdUCdvULWG5zVK2A==,type:bool]",
 	"custom_compose_config": {
 		"services": {
 			"ctrld": {
-				"command": "ENC[AES256_GCM,data:i2UTkMvwY9H5uZBDZSkdLw==,iv:FPKnzpKPrH517aAlqjo/tS9ODSL1joc0/IuDEthnm60=,tag:0GdiFBzr1dWkNcNWuQnxeg==,type:str]",
-				"dns": "ENC[AES256_GCM,data:od0QI7v8g5Ud,iv:u5P9uKgZ7chpYRcHDrzw8LYwygkuPA9qGsRQ0IWFk1s=,tag:kvmy6idbaTev1ZeIHITjsA==,type:str]",
-				"image": "ENC[AES256_GCM,data:/sx7u2W3EQDaE5mUL2Fly9hkQUpZVnQ=,iv:2sOJ6VuS9OpZtuGmNcm8W8Gard93qI5n2Rd4oamDWVY=,tag:H6UKDqj2A1Z6kJZQVBBLVg==,type:str]",
+				"command": "ENC[AES256_GCM,data:DsjRIOzjd1mc1I4rOrff3Q==,iv:Vx/ljgjMJq9oK8ykN3R5hocq+/5FHOH0DICgun8f7N4=,tag:P26elBW6TKfd7lHukX6ocQ==,type:str]",
+				"dns": "ENC[AES256_GCM,data:GohBEXXyFt3A,iv:kNcf/lsZBjegYl0toM+I+FPWqHJWpzSuzCnHARIYar4=,tag:diBb+hMd6XiDQmwJcazDJA==,type:str]",
+				"image": "ENC[AES256_GCM,data:Jcc/gb9s63brtncxlWlrw+dcaDNn4j8=,iv:k+NsRMVcPa4BlbPHd/zvSPTyCKJuZQVr7zt5Jo+x0b4=,tag:JwTDmA55eHHa5kjJhWzmSw==,type:str]",
 				"labels": {
-					"traefik.enable": "ENC[AES256_GCM,data:mCaVUw==,iv:YtKrhU3Wk8myRIfFDxGHsJv2tUSmsuWadTv2imz83Pg=,tag:qPtkxqXEp6jFEewg7C/K5g==,type:str]",
-					"traefik.http.middlewares.redlib-redirect-c4dbf5cb2b07.redirectregex.permanent": "ENC[AES256_GCM,data:2nDv2w==,iv:8RQgGdrPsD6PXgpZaJ/iKBcjDn/Xz7PjYXkY0IdpYX8=,tag:WUiwj+pbaIPAhkHa1xAfbg==,type:str]",
-					"traefik.http.middlewares.redlib-redirect-c4dbf5cb2b07.redirectregex.regex": "ENC[AES256_GCM,data:9AstLrVrDzK5iE9tc8I6aZv1fi9nreflriNfOtc+ipiOiw==,iv:83Vf8xSgXtK4f2cdWz8UY+4lH9H/9GwWJgPJoZ/5YDY=,tag:N0SpyLWlMD7Y700iDYa7oQ==,type:str]",
-					"traefik.http.middlewares.redlib-redirect-c4dbf5cb2b07.redirectregex.replacement": "ENC[AES256_GCM,data:B89mE2nBbslzz1LXUkIf/sDHnnfYroMK9g==,iv:LoaFu669grRF5lcP3IR1C7EQ9HugiOC9CFw7Qtxa82s=,tag:IHIkYzXwmJ4NMHuuEbpf8Q==,type:str]",
-					"traefik.http.routers.redlib-1-http.entrypoints": "ENC[AES256_GCM,data:9rMS,iv:Q3lBc3mVBikW7eFFl0mpNsJNt6XpK2bGGzwstWb/Hpo=,tag:6DbWuMUnoEGW+XA3OYCSSA==,type:str]",
-					"traefik.http.routers.redlib-1-http.middlewares": "ENC[AES256_GCM,data:dKHhZTNt3/R7ALVbnupkgYuKAF5x0xcDkqi+Q9AwUBsctcVlL+n2/h0S48gV,iv:p92vOL8Aske/zGoGMSI5uHHG6KmzfS5CwU1WOO5JGsU=,tag:qMsn2WCiQQkPDhDm4gqJ2Q==,type:str]",
-					"traefik.http.routers.redlib-1-http.rule": "ENC[AES256_GCM,data:0bEqQ2GJMaDyDqIXi41VwCJIEewCTTpKlTfMQewkVJLZthAb,iv:SuJPYqveDVfF/MGVQ8M7h2SaJwK6Z9rlpQh5BU6t3cA=,tag:vpqBUShZlIiMXvHVYFu/HQ==,type:str]",
-					"traefik.http.routers.redlib-1-http.service": "ENC[AES256_GCM,data:Io3+VuqguqU=,iv:E06Qrv4HH9FJE/bZ0CeNAvjXyi3NhMkkuKCF65YzY8g=,tag:lHNjY9Jph8vo2+ae/UUW6w==,type:str]",
-					"traefik.http.routers.redlib-1.entrypoints": "ENC[AES256_GCM,data:Ds8npt0fJTTv,iv:/abRcs25wL4O8kQbniBCeSt1RymUx7mnOr1vNkyMRFQ=,tag:Ya/oirOI22+YzbrK1mJ4Yg==,type:str]",
-					"traefik.http.routers.redlib-1.middlewares": "ENC[AES256_GCM,data:NJ6VX8TuE7j6GflC14oo4+PyS8Y=,iv:Dj1q9O+39WcrabL0KKmxVOFAN7jEdQT7p+7U8hex8vk=,tag:grjgIyTNQD9m9v1BrQ3SZg==,type:str]",
-					"traefik.http.routers.redlib-1.rule": "ENC[AES256_GCM,data:GK6lVTd7jlABOHvjv2qDsfvG3avV4w2+uWWPPQhsWY3fVQXs,iv:tdIQO0xdLyRAJJct4gR+WYEwWIG3662lsk8ZahP1woY=,tag:MxTZGBH2NznhaeVVwOE0fA==,type:str]",
-					"traefik.http.routers.redlib-1.service": "ENC[AES256_GCM,data:gEicx7yhH5s=,iv:Wy/dseOul5vO4retNruNmuNrg+N4NSw4kW5T+ahM0XQ=,tag:C1mKfUqTeT6sNjwfZgVM0w==,type:str]",
-					"traefik.http.routers.redlib-1.tls.certresolver": "ENC[AES256_GCM,data:7RLRJO9ecgwHng==,iv:IKIesYCjQAtFA5K3yYw5Mo3BGf6mFrGeYyuaRpz1NqQ=,tag:nNOlFXDKjWTjXV9mTIsiPw==,type:str]",
-					"traefik.http.routers.redlib-http.entrypoints": "ENC[AES256_GCM,data:0PCS,iv:CCj54YBgsnYPXFAPxMESNlGuzHu/nD3LQBfxYh13DUU=,tag:SjoRp/jhFcQu4TuTKGC58Q==,type:str]",
-					"traefik.http.routers.redlib-http.middlewares": "ENC[AES256_GCM,data:7MOfUWm1JLHG2oVuZ/xIFx235ZqK6vXs,iv:JA9iPz5fp/B7CWx/UNZp1himxIyqlGukKvNAwcgctXU=,tag:4RWNNf+KR8qwWR1Oz7g+6Q==,type:str]",
-					"traefik.http.routers.redlib-http.rule": "ENC[AES256_GCM,data:owZbs2HFQushTOb+/sjRd28KXp94CLeHkw==,iv:Vew0lctDu3Peeu4UAHPhIWZ5ABERm3H9upzLrAP6KZQ=,tag:IDviV90fSkcUmVY2MD9bPw==,type:str]",
-					"traefik.http.routers.redlib-http.service": "ENC[AES256_GCM,data:BrFjXFH6,iv:W8TT6qo5yCNpQNzRYsol0BMQsY70ZeVlanEsLiEfOyw=,tag:I+0VpowHMgFPgrFRvkLjqA==,type:str]",
-					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07-http.entrypoints": "ENC[AES256_GCM,data:LPbO,iv:1bP5rGP7Nq8AJphYa6UUlecGyYS7E30JNz8I0Zm1cS0=,tag:zLtOFIOHYtjwrKj/YMJWJw==,type:str]",
-					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07-http.middlewares": "ENC[AES256_GCM,data:8dZXahGWVmGqRYOcLrLy6Ox1YKTuJHej+C4XiIZ+4F2ngCo=,iv:6oq184ARlILCmNUCCwaGms/tizVsTfg9i+06bTnwEGk=,tag:aK7Hb40E10nICTxYieGkRw==,type:str]",
-					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07-http.rule": "ENC[AES256_GCM,data:vPApQoje+nLycVF3vzjySjGsij1uHKfOKaWVOoM=,iv:lYv8NswKmpDlYwbsICGEXWCVTk/wQ+5jLgJOn3Ic1xA=,tag:AHyJslsxXV594n+JsucwPw==,type:str]",
-					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07-http.service": "ENC[AES256_GCM,data:oJNQuxFP6BiK4vjEWw==,iv:20duzT4J6Za0uBBiy/B62iDezowBiHdX+yIcgnmigxk=,tag:YGOUKlyK5aYcGD05IF3ZYg==,type:str]",
-					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.entrypoints": "ENC[AES256_GCM,data:6F7FxZLGPP/x,iv:OTE/EMZnPs59dGvtlIkeCj4CUHaag3wy8qgZUlcBYkM=,tag:84hZeH4Pw+PPRa05VQV0Qw==,type:str]",
-					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.middlewares": "ENC[AES256_GCM,data:fMxoK/0p3+qddPFxPinl1fhu/wL7lh499yj215zsv+PjsZQ=,iv:H5BTTbAfckeZduutsaTNZOMnpDz0i5YzvocLalecwlE=,tag:Q+6uzbqwF2tE3tHDLMIEWg==,type:str]",
-					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.rule": "ENC[AES256_GCM,data:ONV8ZKZLYKzu/Rb1cs5o+FIUFj03LK8MIGPEd6I=,iv:dA9swCRLMxkNciv5CndzhqL6/2zIIe2Fike9Eywz0SA=,tag:BnR2Joki/cqbKF5gWqtU5A==,type:str]",
-					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.service": "ENC[AES256_GCM,data:GImRJu+HmKdo08YH4Q==,iv:qs5MK0UMdHuUo90RA/dMrUpSe2yyCo1zmiXuRNSuN2w=,tag:kabouYNM5kidqMEQzBZv4A==,type:str]",
-					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.tls.certresolver": "ENC[AES256_GCM,data:hr8HG8ih3uiMKQ==,iv:N1GWnKnA/l/20x+MLy7G8oCmMnNTxeIUkvMS2248rUU=,tag:wf3FX0t2S+Ix4GqSPvn2jw==,type:str]",
-					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.tls.domains[0].main": "ENC[AES256_GCM,data:p1i5nNCfxyBSJ4zIRqIDX0EK2nIR,iv:0kR6Ns7kC6/xcOvhCmiTzkZmMptW+nnK51PXFOe4qAI=,tag:SHP3DG06nPCKqoQgt6uVLQ==,type:str]",
-					"traefik.http.routers.redlib.entrypoints": "ENC[AES256_GCM,data:RW226q8S4tF5,iv:jQ1qydj0IpcqUU0b1sHaCt/6NTGndUXTHYSCqXPejtc=,tag:avHqLtnUs+Xl45HZoE1GMQ==,type:str]",
-					"traefik.http.routers.redlib.rule": "ENC[AES256_GCM,data:ZTOuyWFlL3IF22zLs8dkxFrKTORBCvsuxQ==,iv:0X4BgXofu53595ZOO06Xb2gNMNkuHdcPj8RtEtG4MMs=,tag:2ZxdcWHF/IW9YacG/G6KIQ==,type:str]",
-					"traefik.http.routers.redlib.service": "ENC[AES256_GCM,data:urMJJlsi,iv:n+R9Z1U0VyyUImmQLeqAic6P3DxwJqgq589102fAi28=,tag:sqZNykM8V6rpXehCxc361w==,type:str]",
-					"traefik.http.routers.redlib.tls.certresolver": "ENC[AES256_GCM,data:wswgJB2r0lc3hg==,iv:Rewunp2YDcZkaqOg+M1zyDgAk/uH0PNl2HcsFw4q+RU=,tag:Hdd9G7OqoDLZgraalzEEgg==,type:str]",
-					"traefik.http.routers.redlib.tls.domains[0].main": "ENC[AES256_GCM,data:iZ+2CUyqRrrOo3tLFh62sZ4=,iv:F5sYWoNe8aIn9d/539w3HnxHvXUJXFwf/y05nhAai6A=,tag:T6PXhu6vxQehR4BZVZJU5g==,type:str]",
-					"traefik.http.services.redlib-1.loadbalancer.server.port": "ENC[AES256_GCM,data:SxJ5nA==,iv:BCN+CRCKdeUohbNpER4AO+LkIfBeaPpy7w3lDHQXHu0=,tag:oHMu+wNbp/yRkBJ3a9kAyA==,type:str]",
-					"traefik.http.services.redlib.loadbalancer.server.port": "ENC[AES256_GCM,data:8wH5kw==,iv:XRns3p1fMsxhN5qCmUMQaTTBENCzP+uqS6z94XmbClg=,tag:pubGeWFqSSXIKFNwy+AiCw==,type:str]"
+					"traefik.enable": "ENC[AES256_GCM,data:mTrLmg==,iv:ZIQyEkFsZEVFLKELLSywBG6AXjpNf0EYHNZGIANWkx4=,tag:iuh63fvt7iFcyBuZv8Dl5A==,type:str]",
+					"traefik.http.middlewares.redlib-redirect-c4dbf5cb2b07.redirectregex.permanent": "ENC[AES256_GCM,data:5ZCNdg==,iv:9S/pbgzfUDwgVpY0zHodY4ctB/JJ7iGa82oc5jR5Y1E=,tag:pdAW252Bojx2pYOYF1K23w==,type:str]",
+					"traefik.http.middlewares.redlib-redirect-c4dbf5cb2b07.redirectregex.regex": "ENC[AES256_GCM,data:40O3+W6DI9QKsf5IP5DR5SHsQ1Wg16vkU4yY6EZ8HsfLLQ==,iv:oUW9u620jihPT27gwRWj9MqPGMf+GwaC309VY3ICvv0=,tag:XvzUL9nhOW3nNSseQtiFgw==,type:str]",
+					"traefik.http.middlewares.redlib-redirect-c4dbf5cb2b07.redirectregex.replacement": "ENC[AES256_GCM,data:F0x1kVp4aq/esVSyJJeEjRc57mypEqj23A==,iv:ru5mp7jvitEAa0uN3t3g+6pzK+K70q+ktHFA6OTYeuw=,tag:EwwZh7MyLqhcbwmoaatUnA==,type:str]",
+					"traefik.http.routers.redlib-1-http.entrypoints": "ENC[AES256_GCM,data:9u/T,iv:V23rji9v8RjgjrcTWgm2hPHfw9j6/GfeyJcQDai4WW4=,tag:NUoO6LS0/hzD7K26A4+HGg==,type:str]",
+					"traefik.http.routers.redlib-1-http.middlewares": "ENC[AES256_GCM,data:lk2N202FLFsM4ffbrOQd4dtbKiKT0XWpOi8U53dSdUHQiIqykglH5ESY0ccV,iv:G6XJlvL2pK+JIRjZ1QM4npSve2mgIcRJ2N/6attkD5E=,tag:Nx7HuZs3j4fuTcPcPHuyrA==,type:str]",
+					"traefik.http.routers.redlib-1-http.rule": "ENC[AES256_GCM,data:IpP2lSXO7/lhr3ghHb7WXdUgxpZrezGqSTKMxS7WcGa2HRqs,iv:AIE8Roi+/qr4zf93LSlk1f1rmqxDLxZfQr5hcJ7tAEA=,tag:AB+lX5xUTOeola+gTZ0YAg==,type:str]",
+					"traefik.http.routers.redlib-1-http.service": "ENC[AES256_GCM,data:yWgn4RwVAoE=,iv:8fSyzzI6agXjxRvkv+2Hn+uoHnsoio3Zaho1hjnfDPI=,tag:hHrKkrQCcIASc6z82tbMXw==,type:str]",
+					"traefik.http.routers.redlib-1.entrypoints": "ENC[AES256_GCM,data:cpoHO0PI3NN0,iv:agLjDKLUjm86XHTwiQ294axPLjOE18gy/bHV9WL4zho=,tag:4qi4HfBdKprrGFY68BE9kg==,type:str]",
+					"traefik.http.routers.redlib-1.middlewares": "ENC[AES256_GCM,data:deSAsoEcnwgFsxB1MndD86E15Q0=,iv:Sy99P8ppN5LhXGqg3VTn8kDAc22IhdOsX98+F6CFo2Y=,tag:SPYTJEePOKt8xeU/5Lsdqg==,type:str]",
+					"traefik.http.routers.redlib-1.rule": "ENC[AES256_GCM,data:5Co6QDAwAe0wAKYPmtldjRmNRCcjdRmIbFMaazHAr89EGOE4,iv:clqm5HoKFziHJ/vY4GolGMFjndgnJNHNWg1GstXnxPQ=,tag:NbzTXZ0UEwbOEc0MsSlwKg==,type:str]",
+					"traefik.http.routers.redlib-1.service": "ENC[AES256_GCM,data:cWLwwm1tZNc=,iv:WcFwJV3ObWXANOiXbc8as11vWh0FExFcM17eYxBf/YU=,tag:hd0pdwwdqIf3a6QD17fZSQ==,type:str]",
+					"traefik.http.routers.redlib-1.tls.certresolver": "ENC[AES256_GCM,data:s5O202UhIwOaLw==,iv:/bUSX8kzAodgdz8nYft5onJp6XhF5tCwrWepx5sGQEY=,tag:hp63/MIlDLA+IexPqxt2Ug==,type:str]",
+					"traefik.http.routers.redlib-http.entrypoints": "ENC[AES256_GCM,data:N62e,iv:lmxtyi/XFwA+GR9mZTnEsoRcW7UqdbQPwk1oNs3hcsQ=,tag:MqrRDZkTvsSofrAs+KIW4Q==,type:str]",
+					"traefik.http.routers.redlib-http.middlewares": "ENC[AES256_GCM,data:jLouz5EDQel6sNXKMrKSQYNTD45lbuar,iv:kiblNiO8RCKvyCk+loLtB8Z9Csgylh32V1sPcH9XFdE=,tag:zR5seFgjJXH0w80KfcTPFg==,type:str]",
+					"traefik.http.routers.redlib-http.rule": "ENC[AES256_GCM,data:zkjXDqsgSUHi0ca5QHYPWQYk/5mbUdkyZg==,iv:oKWVv/v2hzrT1B1u0LOx9bqyPyfWqXN0svM7OB8UfFY=,tag:qVasCE1o9dc0ynBTGS2I/g==,type:str]",
+					"traefik.http.routers.redlib-http.service": "ENC[AES256_GCM,data:vqf/RLup,iv:+g6Wh2BpXpCzCu9o85R/aIfs3bxXIWrvLS66N4SLrJM=,tag:IetXd8fohSPS3TN49uJMZQ==,type:str]",
+					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07-http.entrypoints": "ENC[AES256_GCM,data:KQU4,iv:4ebmmLoiiVYea/iHk6OH7EqViwPWn/T+PiXMFDCzKOE=,tag:kFW8yLhZkaNmD+iPNGS1eQ==,type:str]",
+					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07-http.middlewares": "ENC[AES256_GCM,data:byMnkS5HfQDVtEVDMZ4Kwz/RTdQwMv1E9ngRIej4GCD1J8I=,iv:sSi3OFapovzEztHBSPfdn43khValrrpoVRfVFyY6urI=,tag:h7r+NlnBZhlCZBqIWYtf/Q==,type:str]",
+					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07-http.rule": "ENC[AES256_GCM,data:+Q7uM6XueBZaAX5/bC07OB7CIeYZsTOY2faVugU=,iv:dqj40ICN9gfbcToaGbwMVFtD8+6GchGxuVF9xvkEL+c=,tag:eOjP8JbDwE/xEZfQ1XNeAQ==,type:str]",
+					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07-http.service": "ENC[AES256_GCM,data:+wJR1/wGsyJL+q48Xw==,iv:wZ/gQH6zkLPUPN3qSfHTDl7vHkPTcElmxyCGpT37Aa0=,tag:nR2nP1WPU68GA0klwgrD5Q==,type:str]",
+					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.entrypoints": "ENC[AES256_GCM,data:QveBvDanIf5i,iv:psCi7kwEL/GR49o7U366BFr9Oyk00ERfSElpJUd4jhA=,tag:nb1EgHo/2RIFDcSDhXN77w==,type:str]",
+					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.middlewares": "ENC[AES256_GCM,data:lEKsvu1pHefp4aFHlKLK1y9ML90nPRoqsoHYqlmKZoMlvDQ=,iv:CjyApDjhoRcFm7IHh3hD4W0euXRJtgouUnhPf0rX9Cc=,tag:4MVaM4JCoosCWDWhTzn3tQ==,type:str]",
+					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.rule": "ENC[AES256_GCM,data:FoiAAAHFOS18x/zKOpNt0gWjqji3LwTn4G+jPJo=,iv:qJwc80X10SQYMmn8R1s+yeCVmPtc0ZwaNlpaxfUk8kU=,tag:0F1rXaMeZB756gVhEevB7A==,type:str]",
+					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.service": "ENC[AES256_GCM,data:vJKIRWJJKAeQ8/Sdnw==,iv:qvKXL3UxfyivhWLD7c1AWsecey5KmgyEdLhjSfxw+9c=,tag:UUKWk6QiabuVD1Q6Wg/OrQ==,type:str]",
+					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.tls.certresolver": "ENC[AES256_GCM,data:mKma6Ubsy73m2w==,iv:awvX0UC3rAPAZJs9fS4ojYHnPz/l9Q3oPiTSbE/0MHc=,tag:1yj1EFUGgFg93+VTLhkrkA==,type:str]",
+					"traefik.http.routers.redlib-redirect-c4dbf5cb2b07.tls.domains[0].main": "ENC[AES256_GCM,data:6bt9mcBX1aN0M5t9fi5w4bjmNwmB,iv:Z+LYmioUOzS8PPMSzY+RfJIAkKdNwxSWoWV2mA94qYM=,tag:zB51z+q526jfopdZuLf99Q==,type:str]",
+					"traefik.http.routers.redlib.entrypoints": "ENC[AES256_GCM,data:/nx02LAjhH0V,iv:bLV/rFtWOuVtWOrnWxERUpwyXxPM7bQ+u7LYy6izc3Q=,tag:csO3eyG6SeXBtUDRUdjLkw==,type:str]",
+					"traefik.http.routers.redlib.rule": "ENC[AES256_GCM,data:WoqiE4PUSDS1V48lgKpPHUvr/7tBC2oaeA==,iv:YcdQ2yqb7OxBEaCpNaLiDOgv3CvAuzZDLeGOaBxzVPA=,tag:aqP/22uej0LpuTrHWvXW7Q==,type:str]",
+					"traefik.http.routers.redlib.service": "ENC[AES256_GCM,data:cpiZRROP,iv:C+am26a2gnsz7tDisahc6fRedwAVK8LL9f60dYPQFv0=,tag:gu1nzW4Xph2Yyx366XGrbQ==,type:str]",
+					"traefik.http.routers.redlib.tls.certresolver": "ENC[AES256_GCM,data:G5/4xKp9Q+A3rA==,iv:OcuyqNBOz6GddLeoXO4i/zinuYDJkNvWd1qTkxZZBOs=,tag:kz9LtRuZKI34jtjEpHWH5Q==,type:str]",
+					"traefik.http.routers.redlib.tls.domains[0].main": "ENC[AES256_GCM,data:veO7AP3wjdmL8dzOpTStEtc=,iv:FjKdqN4CIIyJTpz0hIf5AEbIT+eMu9zYCVU04D0W9ro=,tag:jHKrCXzGgPf773ar7X4z4Q==,type:str]",
+					"traefik.http.services.redlib-1.loadbalancer.server.port": "ENC[AES256_GCM,data:MNnoBw==,iv:r3ddzoNuKzGnXjHJHhs/px+Ry69cyZu0aIK8+riOOTo=,tag:Wyo98T45NFqLXPnnD4Hwqg==,type:str]",
+					"traefik.http.services.redlib.loadbalancer.server.port": "ENC[AES256_GCM,data:MhL4uA==,iv:0+dXmAVglryEQVJLm1julfk2WgTug8uCgc+lPVk+Pmg=,tag:d0JBZaPygMmM+x/x1exhPg==,type:str]"
 				},
-				"restart": "ENC[AES256_GCM,data:jAKsYolcSOh/h36ASzc=,iv:2Fsb5zenJ6w6qanfqYgl+WJjGFk2jwff/d5KI3OcC0Y=,tag:mK6i/vrHoV8sjKcIQBQFcw==,type:str]"
+				"restart": "ENC[AES256_GCM,data:EqYA+obh0HpuwOjgPFI=,iv:83rVPAR939PiHi9syDDMqlrDjjo9xd4sNt2AmAPKXW8=,tag:7nk514FviLw2JbdG6ZWkDw==,type:str]"
 			},
 			"redlib": {
 				"environment": {
-					"REDLIB_DEFAULT_REMOVE_DEFAULT_FEEDS": "ENC[AES256_GCM,data:tFA=,iv:St+Y8v6ZoO57NDYMokjIAsQz5lbAjY5fwzxdXHY8Yys=,tag:ZjBXnBeK6Kk/00IMGex8nw==,type:str]",
-					"REDLIB_DEFAULT_SUBSCRIPTIONS": "ENC[AES256_GCM,data:jXWOzXa6iVCbfqnCuUXeZSm2MWNrQW93bZGOAJFd5pwTn5TobG/VJvLobX/c4YHGouVeDeOL5DkNtXPIRfBQpoJSWqO4WwLKmcfUHPx/zV8jId7jw19JfYNq43zJqDcDGmZvtellrw2w+RGu217HfgPP31gJTlGxkRKKLe0A7gngOsXhN+b2WzKk/CsDucKzzIrpVeJG8rGdI6OY7xxdoSWQCbF/Z5jXDxsdZQ43XaOI2KxC5LQ43YcHTmuNCjCm3t+DFdtYoRZjEo3ZciMp7iCTMlZ7do1YJqgjSxO3sIkic8MUbRo6/EegkH6009I7IETsS7AD9otO/sxhpqVN8Yh6xf36BDi3hv1QZ6P5gSKmIkexqP//vjWfI+ciDN6mXkKat4jx9sm9e7LghC3AxHUpG8F2Q88DO5nBpMFYT3Ljak0j0d4KssuPsgPPAK3C7b9OLc5cfDExxTPew6a4imbdsBy5nqiFOSfpHKFGtUptATlbsiUeCwjn12WMr7lAblC+3r2Pgrv67B4dhdlX8N4grh3UsU+SDiESAzao124kHOUueK99ifLYcYT6XbLrvIdMdvgf3u+aZ0VC6Sp5tzaPjTr6pNJQN2jFfy3lDOkW7FBVwvb7zFAa5nWsrzDgF8QZOwhL3NX0a4ZXvU8IB+pm3scOTdWDRXe6ulWFrjaH0SMm+OvziEDOVzRYLZl2h6+3I/8s2rFcppxCouP+uMsWA18hUq2qQ4qm1R9emChNQlI61QJG+1aADnu9yya+C100zbCHTzz24CLypC5KYXDLxiFfq6N/7PUAjfWxX8TtJmhUKeW/cyL6EktWNmfGB0jceCEz1F7xrstlAZCnZskGBFZNdS7+gEhKq4Pzvc37FqEwVgpdWStg9zaz81vk35ljb81WV1v+h7pKHuuWoj78wx//WcVITqqDIwUwq2jt7fryT1m1a8A7djyC1dKhDcbiEZaGd0ihT2qYboEkd8ghAe1j2xIzaqUtkCgWa83xGLD4gLm8FIT80kccpxEp52APx0p0kOn3gveP9TUTpIejkUPwiLvkSjjzeqOq8wIbO084Ezxiob4XxwzS2Y58l1+SSmsGv2V4IkaOTh82+G+DfuiKqPUPv/Mz1hdGKO5nFO6pLCk64M7uWEzNuS+n73F3xYJHig01wALqxj5c/WAtwLVZw+D5gcs0UTiq59T3sBCDEl80qRonlh7WGqyRJLlOx/X/5ojEUi/1/Od5iCrenw9mONTYEKL8CEiR8Tr33UqzeT+aQ5jo02boNOjbnhDo+EATh02OyokQrEaNpjvLdlRQbk2EYHVzND7k,iv:5jM8omw30DQM321R8Xine0zdvR6U7t1hxa+XUIJUwQw=,tag:sJ+eLdoQ03oROQwyUqkJIQ==,type:str]",
-					"REDLIB_DEFAULT_USE_HLS": "ENC[AES256_GCM,data:D8A=,iv:C7GFg1jLaJEYFdW+LLCakW/sQpzAfjl2AjjTbvHqyRI=,tag:FLmn7scTHaJY4TjlIRk1IQ==,type:str]",
-					"REDLIB_FULL_URL": "ENC[AES256_GCM,data:EUjLZ024995TcFRUuyem+sqcbabX/y/0Xw==,iv:Jlfxo2dmmDxE2JdSRkoUrreh3TkdiNk1DWT5i5QxcC0=,tag:cdt5vI7AxqDbTMgwq5onhA==,type:str]",
-					"REDLIB_ROBOTS_DISABLE_INDEXING": "ENC[AES256_GCM,data:AE8=,iv:2YlccnjMBtUV6kSu6BM3P1FtrwBdHND4faurJBNv2D0=,tag:xRnfJGy0SJfIJgOATcHqrQ==,type:str]"
+					"REDLIB_DEFAULT_REMOVE_DEFAULT_FEEDS": "ENC[AES256_GCM,data:hm8=,iv:WgIxFnSe+m/9S/iHbU7ilCOcgnINHedWDDpiURkLjh8=,tag:Ay02qpoqtiaHccpMYTkLvw==,type:str]",
+					"REDLIB_DEFAULT_SUBSCRIPTIONS": "ENC[AES256_GCM,data:dJWjxDNOMMga2ur8qHUiC8gAtxKRFTKmSmfSLYz6hEGEJbNKIvHB5en7ptKOavtX8Wg4VuJhFzEh6YQ+BNDvriJn+zCs0r0aTre1Ecn8hrCvA2Dg0BkVLyAA+cTg4zmv4nduRQwCLUKIdNvCQEYSnz5cx9VQPhqKaubb+ItLv6DvP1qVQZQSdPlYz2Y+8LnpuxV6RZ41YMHEqeHHi3R/8FJBWCtkamEQufZqkfxLq4+addQpBkM658oAO3FoWACPGBcrnCgBjA+soSBkiPmXpoy/VMfoXHac8TKrbSXmB8R4bJQUvLvn5Vq0LRhHFTj6P5u45wR4jI9wHtWY/FyxDpo6no1jQDwVNGo8P83iLxbP6stu8bn1PPrG5QmdosKQOZ5bXloXiIl0oczZUgnzACJ5HsOp//8yn+MbAuBm2W9wctxjcsxmQECoKStO8k1NNfYzs+P6mNmpGigbynnl+8yahGCxd28pfhdN1QV9wjZlBO2DwuPN1VHa7jDa4sJCp/SIaMbA4rO+zvNQpG4fi10Y8c0OrQkzNoB38mmqWQ/xfxqIpn4TxoLncJsjHVtowMEFVSLQ6UAUrxlqLlc6Vlj6+o44iBLFSRxtdvVMLbk+f5WI2/Cm5FF1bSJRjOiXmzex1cyCcYu/NdpNBVuadpBiqAwFDvbrLgBXedJPm1iSSFejSHoFllgzw0GIbOGmX4f8rnWONHPRvXQD5ugpA/pKmj6a98PiTs6CjIrqNCmfxpBxlQF3SNV8eGqZnrHyODfrlyTULs/p5QNuviUftH5HGn6+Gv29JXSTSYeuyYtbZYdK8UPAzHGjo3GnGMwSbwyV3Abv3gwZ0RYRpoWSURPHSxI1znzqoXqlrLWymvo10CN3daWRpFtR4yzXHrufqTszwasKe+qjR47HnJm3fIyWmjFPARCNlsK6F6nIubZXfXgplHVQqusbgqeC75DvcjX7y1LZSnc8b8RBU5VhyoP+hVBSb4WiIJAglbjlddOiwf94RYFx+XfeO3JUmNBrN1PK4gNvpXwEJndHt7oTgbkUSltsdI64sb99WHyqk5xpuamEC5qewGwy5771CeAhcOUCJJTMUBdsgczmqaJWfINd2FyaT0TsaBIvGw34Yn/tDFfvEN32fM2QgjV0w/GgyPO4TpntkB3mLLKxxUtTd6Oyxxsu110tt1zBhtrX6oloEbEhxOQAOuylH+HaZjITZXbgo43Sxe5+fIZFLSu2JfwJ2jH8VwKckfboCv4dSA/L31kgJewESEqwWCeKDHa3oz3nKmYsW/N1598pg4heQwrxz6QhX3ckbibeSIcwJfmcfk2wxFv0cehAb+FKwTl4rqoR,iv:fcRCHhF+J0vvPgzXHapQMGIH+1ZUfRwsKn7uYiarBR0=,tag:2CU0Fi5QhNXKhsJ3dFgqHQ==,type:str]",
+					"REDLIB_DEFAULT_USE_HLS": "ENC[AES256_GCM,data:gZI=,iv:0D2yghJ1kYWQ18VtP9rYtFVilaeT5+fACwucqclqDRc=,tag:8hiI/geEbbmlqduam+LBeg==,type:str]",
+					"REDLIB_FULL_URL": "ENC[AES256_GCM,data:d1BofamTy3HcSypQuooMPdHPBcThNNQMHw==,iv:rqpnlVLIrQP4xYd6Z8Yd7b0KcsS73exP4XjhGzH8hAU=,tag:4Fx4/UafiW0HQUMK//HvIQ==,type:str]",
+					"REDLIB_ROBOTS_DISABLE_INDEXING": "ENC[AES256_GCM,data:Zg4=,iv:LkcLCO19O4AYnWOFEkWhqeBJxT+V/M029hNHzpHmne0=,tag:E/3oFrXxrPfz7qNpSyI+OQ==,type:str]"
 				},
 				"healthcheck": {
-					"disable": "ENC[AES256_GCM,data:DfY6/Q==,iv:8hKn1OmLhNE9G/Th4JrPvpbOZy1OL1c+4eis/BIhOyA=,tag:dyJQMmBk8cqErCxM0Iv+BQ==,type:bool]"
+					"disable": "ENC[AES256_GCM,data:frgotQ==,iv:OOCp+AXaFsfO358ha3T9ovg9UDcLlLxJAkqa1XXjeAM=,tag:Ng9tMeyKcZvTMKcObPcI+Q==,type:bool]"
 				},
-				"image": "ENC[AES256_GCM,data:zADbrxXvoa0xmvCJG0fgB0FzYK9GRBtF146beTnj,iv:OY3APu6cUIUPeqnwGsBlClicH4EQgGL51mj1r2MAvTc=,tag:2K/J2pj2yo5/09ysKlhi/A==,type:str]",
-				"network_mode": "ENC[AES256_GCM,data:P237UMG57+LXlvcbdA==,iv:lA/dUqcmtUZVAnim3npuS2mGtHMGiHxk+ySGMKyZxoA=,tag:EDTsN1rfsBs2yhK/VmKKew==,type:str]",
-				"restart": "ENC[AES256_GCM,data:cZrFGWqOcSjh+ebFM8I=,iv:fc38DUxdZw6rBWWqFgHT7au/h+os+U5UafM0YHejYSI=,tag:Tiwoap+X11rUrCULlIbKJg==,type:str]"
+				"image": "ENC[AES256_GCM,data:T617mFvUHGqIeehXeCrb42No1SQ72Mtw8mh7UY3P,iv:OLkoOVgqt0T83///a5r/ZQLu5SW+YY7JBW9FENpcgCo=,tag:oD7UyDZXu+HW8GwdB6IZ+w==,type:str]",
+				"network_mode": "ENC[AES256_GCM,data:GBDc70Q22mgg4ZGEaA==,iv:HbMXL9H3OFIr6MuvWKWn3xEvDsIZ8OvkPXbm5EJVU3Q=,tag:24l1fgY6LPYgzJ0YqPYehg==,type:str]",
+				"restart": "ENC[AES256_GCM,data:wbhGpamA2XVLTblXL+4=,iv:9D2zs6NHBqNL2eNt3V85FUWf/BBht4eiCKwM+Ut2pbY=,tag:72O4WUNgvw0AMS2eiZXQFg==,type:str]"
 			}
 		}
 	},
 	"sops": {
 		"age": [
 			{
-				"enc": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBFWnpCeURHUUxGSFBiMzFt\nTElsSkhwdXpaaG9QVUJuSjd6VU9abmJxOHd3CnZydlU1RjVkZDVhWlg5Y2d4R1ZL\nTjBaZW91THl1Wi9zSXdaYVMxN09NOHcKLS0tIGVidmJ0U01NZmV0Z3dRdDdORC9N\ndkVERFhicmRNYnh1TWlaSDhTOWJ2ajAKd0zkSNKvooHR8qIqvLwawUNr7m7l4gqZ\nzMZlKGcq7Y7J3mSsm8GUqeKHR0aGDBqgQAnSzz3BuXqg3aaL6MI6Ng==\n-----END AGE ENCRYPTED FILE-----\n",
+				"enc": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSAvSEZUbElOKzVrcHEwTUV0\nQU1wNDJpNHFFci9iZElJUi81NGFTdFNYcFVFCjc4cE9SNjg4WncrZTNlU1dWb1Yr\na0tLVFlyK3A2dlpxbFpLcVpReTNhY3cKLS0tIG8wYURoNGZ1VXJzd0MveHBDQXdY\ncitRa2gxQmxRUzZlRlV3YWUzZzMzZE0KH5oOwp4r37xIjwnyNa9eNMJOD4PSWppo\n7CXfNGazBhVtubT0Wed5ogGYwKChuQOMRI7riVxQNZ2O+uy1FRqKhQ==\n-----END AGE ENCRYPTED FILE-----\n",
 				"recipient": "age1efn67qrhcfhdjycg0sckmnpytcm765ndwys0zfg8dth2lqqss93qk8tsjd"
 			}
 		],
-		"lastmodified": "2026-07-14T07:28:42Z",
-		"mac": "ENC[AES256_GCM,data:oHswhDOyZ0tPhlyxz3IwmFXfhGy8dxwLiALV55vfN5Wu2QzdV/B26xyupwfyVBYq2/bJE8m8XB+zhCxyPV1Qz2mH/H5Fin8maGKAweSkn9sFMReLOgi1tslWppwYKBJbsKBuBWvrwr3rauvqEPmddyMtGDndeHb0RSlbGXuaz2s=,iv:l/MArpB0K1MqBNuKgzOgMWxMwyxVo6ppAYK9RrBJDXA=,tag:exrJhoJUKBdGHRhdc8RyVQ==,type:str]",
+		"lastmodified": "2026-07-16T02:27:55Z",
+		"mac": "ENC[AES256_GCM,data:Sf4LMyHb3VPavaJbDxcKkjIVC83DFQsqt4RrmOwLg0RQHmgNnC/B+rCeubqoiUQNly1jEHYYKrC1bKXb3pqpn7ezOOk5wXuPsa0oCvx8DcyvW/0K4ERMRrDAWEr4Bgz9uAdvQZ3q9OhPFLL0DmTf3p6Y1GA3cqem/YyG64LEeiY=,iv:FK81k24pfQN9EKjza3EDt5wmv69mO9TJidNBWEJ4+wc=,tag:oX0o8Ijp6L4dp7VFf+iq6Q==,type:str]",
 		"unencrypted_suffix": "_unencrypted",
 		"version": "3.13.1"
 	}
